@@ -1,0 +1,10 @@
+LIBRARY BORROWING RECORDS
+Generated: 2026-10-03
+Loan period: 14 days
+============================================================
+The Hobbit | Asha | borrowed 2026-09-13 | due 2026-09-27 | OVERDUE
+1984 | Ravi | borrowed 2026-09-30 | due 2026-10-14 | ON LOAN
+Dune | Meena | borrowed 2026-09-03 | due 2026-09-17 | RETURNED 2026-10-03 (LATE)
+Clean Code | Karan | borrowed 2026-10-02 | due 2026-10-16 | ON LOAN
+============================================================
+Total: 7  Available: 4  Borrowed: 3  Overdue: 1
